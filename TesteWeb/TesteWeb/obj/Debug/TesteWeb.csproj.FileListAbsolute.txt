@@ -1,0 +1,6 @@
+C:\GIT\TesteGB\TesteWeb\TesteWeb\bin\TesteWeb.dll.config
+C:\GIT\TesteGB\TesteWeb\TesteWeb\bin\TesteWeb.dll
+C:\GIT\TesteGB\TesteWeb\TesteWeb\bin\TesteWeb.pdb
+C:\GIT\TesteGB\TesteWeb\TesteWeb\obj\Debug\TesteWeb.csprojResolveAssemblyReference.cache
+C:\GIT\TesteGB\TesteWeb\TesteWeb\obj\Debug\TesteWeb.dll
+C:\GIT\TesteGB\TesteWeb\TesteWeb\obj\Debug\TesteWeb.pdb
